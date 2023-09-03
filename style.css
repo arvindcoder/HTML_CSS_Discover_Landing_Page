@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta&display=swap');
+
+#navbarMonstera {
+  display: -webkit-box;
+  margin-top: 20px;
+}
+
+#navMid {
+  display: -webkit-box;
+  list-style: none;
+  font-size: 16px;
+  margin-left: 13%;
+}
+
+#navEnd {
+  display: -webkit-box;
+  margin-left: 5%;
+}
+
+#midWholePart11>div>ul>li:nth-child(3) {
+  color: rgb(6, 6, 6);
+  font-family: Allerta;
+}
+
+#midWholePart11>div>ul>li:nth-child(4) {
+  color: rgb(8, 8, 8);
+  font-family: Allerta;
+  margin-top: 1%;
+
+}
+
+#midWholePart11>div>ul>li:nth-child(1) {
+  color: rgb(9, 9, 9);
+  font-size: 230%;
+}
+
+#midWholePart121 {
+  background-color: #486c54;
+  color: white;
+
+  display: inline-flex;
+  border-radius: 37px;
+  padding: 0 40px 0 40px;
+}
+
+#midWholePart122 {
+  width: 10px;
+}
+
+img[src="./photos/greaterThan.svg"] {
+  margin-top: 27px;
+  margin-left: 15px;
+}
+
+img[src="./photos/6_folwer_cut.png"] {
+  margin-left: 70%;
+  width: 29%;
+  margin-top: -38%;
+  position: absolute;
+}
+
+#navMid>div>h4 {
+  width: 171px;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+#navEnd>div>img[src="/photos/cart.svg"] {
+  margin-right: 40px;
+}
+
+#navEnd>div>img[src="./photos/user.svg"] {
+  margin-right: 40px;
+}
+
+#midWholePart12 {
+  margin-left: 50px;
+}
+
+#midWholePart11>div>ul>li:nth-child(2) {
+  padding: 0 0 0 0;
+}
+
+img[src="./photos/Logo.svg"] {
+  margin-left: 45px;
+}
+
+#midWholePart13 {
+  display: -webkit-box;
+  width: 15%;
+  margin-left: 50px;
+}
+
+.midWholePart13Parts {
+  display: -webkit-box;
+  margin-top: 66px;
+  width: 146%;
+}
+
+#midWholePart11 {
+  margin-left: 30px;
+}
+
+#navMid:hover::before {
+  background-color: #ae0909;
+  width: 100%;
+}
